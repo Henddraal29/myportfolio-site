@@ -1,7 +1,7 @@
 # 🚀 My Portfolio
 
 Portfolio site with **Debian + Nginx** (Virtual Machine Project).  
-Project ini dibuat sebagai latihan SysAdmin / DevOps dasar.
+
 
 ![Screenshot](./screenshot.png)
 
